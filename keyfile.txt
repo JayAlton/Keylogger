@@ -1,1 +1,3 @@
-thisistif
+new screipt is working the way  [SHIFT] I want it to
+
+ [SHIFT] I typed some things out [Key.ctrl_l]  [Key.ctrl_l] 
