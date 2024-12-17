@@ -6,16 +6,12 @@ DISCLAIMER: This script is intended solely for educational and testing purposes 
 
 Features
 
-Logs alphanumeric keys and special keys (e.g., Space, Enter, Backspace) to a file.
-
-Creates a keyfile.txt log file in the working directory.
-
-Flushes data to the log file in real-time to ensure consistent logging.
-
-Stops execution when the ESC key is pressed.
+-Logs alphanumeric keys and special keys (e.g., Space, Enter, Backspace) to a file.
+-Creates a keyfile.txt log file in the working directory.
+-Flushes data to the log file in real-time to ensure consistent logging.
+-Stops execution when the ESC key is pressed.
 
 Prerequisites
 
-Python 3.7 or later
-
-pynput library
+-Python 3.7 or later
+-pynput library
